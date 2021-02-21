@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Anton (@AntonMZ)<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'></a> 
 #### Software Engineer
 
-Stack:
+**Stack:**
 ![](https://img.shields.io/badge/Laravel-grey?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/PHP-grey?style=flat&logo=php&logoColor=9cf)
 ![](https://img.shields.io/badge/Bash-grey?style=flat&logo=linux)
