@@ -13,6 +13,11 @@
 ![](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnu-bash)
 ![](https://img.shields.io/badge/Git-grey?style=flat&logo=git)
 
+**Hardware stack:**
+![](https://img.shields.io/badge/Supermicro-grey?style=flat)
+![](https://img.shields.io/badge/Intel-grey?style=flat&logo=intel)
+![](https://img.shields.io/badge/Mikrotik-grey?style=flat)
+
 **Tools:**
 ![](https://img.shields.io/badge/PHPStorm-grey?style=flat&logo=phpstorm)
 ![](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)
@@ -22,11 +27,6 @@
 ![](https://img.shields.io/badge/Trello-grey?style=flat&logo=trello)
 ![](https://img.shields.io/badge/Notion-grey?style=flat&logo=notion)
 ![](https://img.shields.io/badge/TravisCI-grey?style=flat&logo=travis-ci&logoColor=white)
-
-**Hardware stack:**
-![](https://img.shields.io/badge/Supermicro-grey?style=flat)
-![](https://img.shields.io/badge/Intel-grey?style=flat&logo=intel)
-![](https://img.shields.io/badge/Mikrotik-grey?style=flat)
 
 - I’m currently working on [Verytel](https://verytel.ru) 
 - Open for new opportunities
