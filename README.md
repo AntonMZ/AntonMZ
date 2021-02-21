@@ -2,7 +2,12 @@
 #### Software Engineer
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.1
 
-Skills: PHP 5-7.x / Laravel 5-8.x
+Skills: ![](https://img.shields.io/badge/-Nginx-green)
+![](https://img.shields.io/badge/-Laravel-red)
+![](https://img.shields.io/badge/-PHP-blue)
+![](https://img.shields.io/badge/-Bash-grey)
+![](https://img.shields.io/badge/-Centos-blue)
+![](https://img.shields.io/badge/-Grafana-black)
 
 - 🔭 I’m currently working on [Verytel](https://verytel.ru) 
 
