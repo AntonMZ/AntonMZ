@@ -32,7 +32,15 @@
 - Open for new opportunities
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/AntonMZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amzheltyshev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](@AntonMZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](DevChipsTips)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='20'>](mgr-msc@yandex.ru)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/AntonMZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/amzheltyshev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](@AntonMZ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>]([tg://DevChipsTips]())  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='20'>](mgr-msc@yandex.ru)  
+
+
+<a href="https://github.com/AntonMZ"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'></a>
+<a href="https://www.linkedin.com/in/amzheltyshev/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'></a>
+<a href="https://t.me/AntonMZ"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'></a>
+<a href="https://t.me/DevChipsTips"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'></a>
+<a href="mailto:mgr-msc@yandex.ru"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='20'></a>
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonMZ&show_icons=true)  
 
