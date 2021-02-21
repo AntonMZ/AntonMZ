@@ -31,6 +31,7 @@
 - I’m currently working on [Verytel](https://verytel.ru) 
 - Open for new opportunities
 
+**Contacts:**
 <a href="https://github.com/AntonMZ"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'></a>
 <a href="https://www.linkedin.com/in/amzheltyshev/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'></a>
 <a href="https://t.me/AntonMZ"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'></a>
