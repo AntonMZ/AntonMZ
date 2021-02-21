@@ -1,13 +1,14 @@
 ### Hi there 👋, I'm Anton (@AntonMZ)<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'></a> 
 #### Software Engineer
 
-Skills: ![](https://img.shields.io/badge/-Nginx-green)
-![](https://img.shields.io/badge/-Laravel-red)
-![](https://img.shields.io/badge/-PHP-blue)
-![](https://img.shields.io/badge/-Bash-grey)
-![](https://img.shields.io/badge/-Centos-blue)
-![](https://img.shields.io/badge/-Grafana-black)
-![](https://img.shields.io/badge/-MySQL-orange)
+Stack:
+![](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+![](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/Centos-blue?style=for-the-badge&logo=centos)
+![](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)
+![](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx)
 
 - I’m currently working on [Verytel](https://verytel.ru) 
 - Open for new opportunities
