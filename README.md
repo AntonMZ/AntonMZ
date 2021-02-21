@@ -7,6 +7,7 @@ Skills: ![](https://img.shields.io/badge/-Nginx-green)
 ![](https://img.shields.io/badge/-Bash-grey)
 ![](https://img.shields.io/badge/-Centos-blue)
 ![](https://img.shields.io/badge/-Grafana-black)
+![](https://img.shields.io/badge/-MySQL-orange)
 
 - I’m currently working on [Verytel](https://verytel.ru) 
 - Open for new opportunities
