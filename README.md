@@ -5,6 +5,9 @@
 ![](https://img.shields.io/badge/Laravel-grey?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/PHP-grey?style=flat&logo=php&logoColor=9cf)
 ![](https://img.shields.io/badge/Linux-grey?style=flat&logo=linux)
+
+<details>
+<summary>More Skills</summary>
 ![](https://img.shields.io/badge/Centos-grey?style=flat&logo=centos&logoColor=9cf)
 ![](https://img.shields.io/badge/Grafana-grey?style=flat&logo=grafana)
 ![](https://img.shields.io/badge/Mysql-grey?style=flat&logo=mysql&logoColor=orange)
@@ -12,6 +15,7 @@
 ![](https://img.shields.io/badge/Nginx-grey?style=flat&logo=nginx)
 ![](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnu-bash)
 ![](https://img.shields.io/badge/Git-grey?style=flat&logo=git)
+</details>
 
 **Hardware stack:**
 ![](https://img.shields.io/badge/Supermicro-grey?style=flat)
