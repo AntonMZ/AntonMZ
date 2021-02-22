@@ -8,6 +8,7 @@
 
 <details>
 <summary>More...</summary>
+  
 ![](https://img.shields.io/badge/Centos-grey?style=flat&logo=centos&logoColor=9cf)
 ![](https://img.shields.io/badge/Grafana-grey?style=flat&logo=grafana)
 ![](https://img.shields.io/badge/Mysql-grey?style=flat&logo=mysql&logoColor=orange)
@@ -15,6 +16,7 @@
 ![](https://img.shields.io/badge/Nginx-grey?style=flat&logo=nginx)
 ![](https://img.shields.io/badge/Bash-grey?style=flat&logo=gnu-bash)
 ![](https://img.shields.io/badge/Git-grey?style=flat&logo=git)
+
 </details>
 
 **Hardware stack:**
@@ -29,11 +31,13 @@
 
 <details>
 <summary>More...</summary>
+  
 ![](https://img.shields.io/badge/Bitbucket-grey?style=flat&logo=bitbucket)
 ![](https://img.shields.io/badge/Jira-grey?style=flat&logo=jira)
 ![](https://img.shields.io/badge/Trello-grey?style=flat&logo=trello)
 ![](https://img.shields.io/badge/Notion-grey?style=flat&logo=notion)
 ![](https://img.shields.io/badge/TravisCI-grey?style=flat&logo=travis-ci&logoColor=white)
+
 </details>
 
 - I’m currently working on [Verytel](https://verytel.ru) 
