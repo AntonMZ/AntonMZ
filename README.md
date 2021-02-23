@@ -1,14 +1,12 @@
 ### Hi there 👋, I'm Anton (@AntonMZ)<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='25' height='25'></a> 
 #### Software Engineer
 
-**Software stack:**
+<details>
+<summary>Software stack</summary>
+
 ![](https://img.shields.io/badge/Laravel-grey?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/PHP-grey?style=flat&logo=php&logoColor=9cf)
 ![](https://img.shields.io/badge/Linux-grey?style=flat&logo=linux)
-
-<details>
-<summary>More...</summary>
-  
 ![](https://img.shields.io/badge/Centos-grey?style=flat&logo=centos&logoColor=9cf)
 ![](https://img.shields.io/badge/Grafana-grey?style=flat&logo=grafana)
 ![](https://img.shields.io/badge/Mysql-grey?style=flat&logo=mysql&logoColor=orange)
@@ -19,19 +17,21 @@
 
 </details>
 
-**Hardware stack:**
+<details>
+<summary>Hardware stack</summary>
+  
 ![](https://img.shields.io/badge/Supermicro-grey?style=flat)
 ![](https://img.shields.io/badge/Intel-grey?style=flat&logo=intel)
 ![](https://img.shields.io/badge/Mikrotik-grey?style=flat)
 
-**Tools:**
+</details>
+
+<details>
+<summary>Tools</summary>
+
 ![](https://img.shields.io/badge/PHPStorm-grey?style=flat&logo=phpstorm)
 ![](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)
 ![](https://img.shields.io/badge/Sentry-grey?style=flat&logo=sentry)
-
-<details>
-<summary>More...</summary>
-  
 ![](https://img.shields.io/badge/Bitbucket-grey?style=flat&logo=bitbucket)
 ![](https://img.shields.io/badge/Jira-grey?style=flat&logo=jira)
 ![](https://img.shields.io/badge/Trello-grey?style=flat&logo=trello)
