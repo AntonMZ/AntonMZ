@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/Laravel-grey?style=flat&logo=laravel)
 ![](https://img.shields.io/badge/PHP-grey?style=flat&logo=php&logoColor=9cf)
-![](https://img.shields.io/badge/Linux-grey?style=flat&logo=linux)
+![](https://img.shields.io/badge/Git-grey?style=flat&logo=git)
 ![](https://img.shields.io/badge/Centos-grey?style=flat&logo=centos&logoColor=9cf)
 ![](https://img.shields.io/badge/Grafana-grey?style=flat&logo=grafana)
 ![](https://img.shields.io/badge/Mysql-grey?style=flat&logo=mysql&logoColor=orange)
